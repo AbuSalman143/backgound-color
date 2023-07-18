@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.btn-width{
+    width: 200px;
+    border-radius: 50px;
+}
+
+.text{
+    font-weight: 600;
+    font-size: large;
+    color: #ffc107;
+}
